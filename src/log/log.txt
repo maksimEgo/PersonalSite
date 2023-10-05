@@ -1,0 +1,28 @@
+Test with ip: 172.18.0.1 ,performed the action addEntry ,result: true ,date: Friday 22nd of September 2023 01:46:14 PM
+Admin with ip: 172.18.0.1 ,performed the action authorization ,result: false ,date: Friday 22nd of September 2023 01:51:40 PM
+Admin with ip: 172.18.0.1 ,performed the action deleteEntry ,result: true ,date: Friday 22nd of September 2023 01:52:04 PM
+My name with ip: 172.18.0.1 ,performed the action addEntry ,result: true ,date: Friday 22nd of September 2023 02:01:46 PM
+Admin with ip: 172.18.0.1 ,performed the action deleteEntry ,result: true ,date: Sunday 1st of October 2023 05:28:36 PM
+Admin with ip: 172.18.0.1 ,performed the action ImageUpload ,result: true ,date: Monday 2nd of October 2023 09:26:42 AM
+Admin with ip: 172.18.0.1 ,performed the action ImageUpload ,result: true ,date: Monday 2nd of October 2023 09:48:07 AM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 11:47:30 AM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 11:48:26 AM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 11:49:15 AM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 11:52:34 AM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 11:55:37 AM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 11:55:43 AM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 11:57:18 AM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 11:57:20 AM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 11:58:46 AM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 12:07:18 PM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 12:07:41 PM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 12:07:44 PM
+Test with ip: 172.18.0.1 ,performed the action addEntry ,result: true ,date: Monday 2nd of October 2023 12:10:54 PM
+Admin with ip: 172.18.0.1 ,performed the action deleteEntry ,result: true ,date: Monday 2nd of October 2023 12:11:02 PM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 12:22:06 PM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 12:23:17 PM
+admin with ip: 172.18.0.1 ,performed the action Home info update ,result: Success ,date: Monday 2nd of October 2023 12:23:17 PM
+Admin with ip: 172.18.0.1 ,performed the action editInfo ,result: true ,date: Monday 2nd of October 2023 12:25:04 PM
+admin with ip: 172.18.0.1 ,performed the action Home info update ,result: Success ,date: Monday 2nd of October 2023 12:25:04 PM
+New with ip: 172.18.0.1 ,performed the action addEntry ,result: true ,date: Monday 2nd of October 2023 12:37:06 PM
+Admin with ip: 172.18.0.1 ,performed the action deleteEntry ,result: true ,date: Monday 2nd of October 2023 12:37:15 PM
